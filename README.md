@@ -1,7 +1,7 @@
-## MATH255: Probability and Statistics
+# MATH255: Probability and Statistics
 Homeworks for the MATH255 Probability and Statistics course at Bilkent University.
 
-# Homeworks
+## Homeworks
 - [Homework 1](https://github.com/ynarter/MATH255/tree/main/Homework%201)
 
 - [Homework 2](https://github.com/ynarter/MATH255/tree/main/Homework%202)
@@ -12,7 +12,7 @@ Homeworks for the MATH255 Probability and Statistics course at Bilkent Universit
    
 - [Homework 5](https://github.com/ynarter/MATH255/tree/main/Homework%205)
 
-# Past Exams and Textbook
+## Past Exams and Textbook
 
 - [Past Exams](https://github.com/ynarter/MATH255/tree/main/Past%20Exams)
 
