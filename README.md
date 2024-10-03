@@ -1,5 +1,5 @@
 # MATH255: Probability and Statistics
-Homeworks for the MATH255 Probability and Statistics course at Bilkent University.
+📄 Homeworks for the MATH255 Probability and Statistics course at Bilkent University.
 
 ## Homeworks
 - [Homework 1](https://github.com/ynarter/MATH255/tree/main/Homework%201)
